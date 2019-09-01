@@ -1,0 +1,23 @@
+{
+  "name": "css-basics",
+  "version": "1.0.0",
+  "description": "css basics trial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jjayaraman/css.git"
+  },
+  "keywords": [
+    "css",
+    "basics"
+  ],
+  "author": "Jayakumar Jayaraman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjayaraman/css/issues"
+  },
+  "homepage": "https://github.com/jjayaraman/css#readme"
+}
